@@ -1,0 +1,94 @@
+/* Inserta tu CSS aqui */
+
+
+
+
+
+header{
+    background:url(../images/cora.gif);
+    background-repeat: no-repeat;
+    background-color:beige;
+    
+}
+header ul{
+    list-style: none;
+    text-align: center;
+}
+header li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 15px;
+    font-family: cursive;
+    color: violet;
+    
+    
+    
+}
+
+.hero h1{
+    position: relative;
+    text-align: center;
+    color: blueviolet;
+    font-size: 18px;
+}
+
+
+.hero .banner img{
+    width: 1270px;
+    background-size: cover;
+    
+}
+.hero .mio img{
+    margin-left: 180px;
+    
+    background-size: cover;
+
+  
+
+}
+.favorito h2{
+    text-align: center;
+    font-size: 18px;
+    color: blueviolet;
+   
+}
+.favorito h2 small{
+    color: blueviolet;
+    position: relative;
+    top: -20px;
+    font-size: 15px;
+}
+.favorito img{
+    width: 130px;
+    height: 120px;
+    margin: 0 auto;
+    border-radius: 100px;
+    padding: 4px;
+    border: 2px solid blueviolet;
+    
+}
+.final{
+    background:url(../images/gifs-estrellas-colores.gif);
+}
+.final h2{
+    color: blueviolet;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.final img{
+    margin-right: 0px;
+    background-size: cover;
+}
+.final ul{
+    text-align: center;
+    list-style: none;
+    
+    
+    
+}
+.final ul li{
+    display: inline-block;
+}
